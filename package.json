@@ -10,12 +10,25 @@
     "test": "jest"
   },
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.22.1"
   },
   "devDependencies": {
     "jest": "^29.7.0",
-    "supertest": "^6.3.4",
-    "nodemon": "^3.1.0"
-  }
+    "nodemon": "^3.1.0",
+    "supertest": "^6.3.4"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anttipt/reverse-engineering-legacy-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anttipt/reverse-engineering-legacy-api/issues"
+  },
+  "homepage": "https://github.com/anttipt/reverse-engineering-legacy-api#readme"
 }
-
