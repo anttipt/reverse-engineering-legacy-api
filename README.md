@@ -31,3 +31,9 @@ Näiden työvaiheiden jälkeen pystyy:
 curl http://localhost:3000/health
 curl http://localhost:3000/v1/items 
 
+## Seuraava vaihe: Jest + Supertest ‑testipohja
+
+🧪 1. Luo testihakemisto ja tiedostot
+
+
+
