@@ -43,7 +43,8 @@ curl http://localhost:3000/v1/items
 
 ▶️ 5. Aja testit
 
-
+Mitä nämä testit tekevät ja miksi ne kuuluu tehdä?
+(tulossa)
 
 
 
