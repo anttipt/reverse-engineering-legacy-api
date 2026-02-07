@@ -33,7 +33,17 @@ curl http://localhost:3000/v1/items
 
 ## Seuraava vaihe: Jest + Supertest ‑testipohja
 
-🧪 1. Luo testihakemisto ja tiedostot
+🧪 1. Luo testihakemisto ja tiedosto
+
+🧩 2. Tee pieni muutos serveriin, jotta testit voivat käyttää sitä
+
+🧪 3. Lisää toinen testipohja (unit‑testi mapperille)
+
+🧪 4. Varmista, että Jest toimii ES‑moduleilla
+
+▶️ 5. Aja testit
+
+
 
 
 
